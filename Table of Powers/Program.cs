@@ -10,7 +10,7 @@
             String choice;
             do
             {
-                Console.WriteLine("Number Squared Cubed");
+              
 
                 Console.Write("Enter an integer: ");
                 int entry = int.Parse(Console.ReadLine());
